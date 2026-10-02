@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="512" viewBox="0 0 780 512" font-family="SF Pro Display, Segoe UI, Helvetica Neue, Arial, PingFang SC, sans-serif">
+<defs>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#58a6ff" stop-opacity="0.28"/>
+  <stop offset="1" stop-color="#bc8cff" stop-opacity="0.10"/>
+</linearGradient>
+<linearGradient id="gs" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#58a6ff"/>
+  <stop offset="1" stop-color="#bc8cff"/>
+</linearGradient>
+</defs>
+<rect width="780" height="512" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="390" y="44" text-anchor="middle" font-size="13" letter-spacing="4" fill="#484f58">META-ABILITY RADAR</text>
+<text x="390" y="72" text-anchor="middle" font-size="21" font-weight="700" fill="#e6edf3">元能力塑造 · Current Levels</text>
+<polygon points="390.0,248.8 419.7,270.4 408.3,305.2 371.7,305.2 360.3,270.4" fill="none" stroke="#263041" stroke-width="1"/>
+<polygon points="390.0,217.6 449.3,260.7 426.7,330.5 353.3,330.5 330.7,260.7" fill="none" stroke="#263041" stroke-width="1"/>
+<polygon points="390.0,186.4 479.0,251.1 445.0,355.7 335.0,355.7 301.0,251.1" fill="none" stroke="#263041" stroke-width="1"/>
+<polygon points="390.0,155.2 508.7,241.4 463.4,381.0 316.6,381.0 271.3,241.4" fill="none" stroke="#263041" stroke-width="1"/>
+<polygon points="390.0,124.0 538.4,231.8 481.7,406.2 298.3,406.2 241.6,231.8" fill="none" stroke="#263041" stroke-width="1"/>
+<line x1="390" y1="280" x2="390.0" y2="124.0" stroke="#263041" stroke-width="1"/>
+<line x1="390" y1="280" x2="538.4" y2="231.8" stroke="#263041" stroke-width="1"/>
+<line x1="390" y1="280" x2="481.7" y2="406.2" stroke="#263041" stroke-width="1"/>
+<line x1="390" y1="280" x2="298.3" y2="406.2" stroke="#263041" stroke-width="1"/>
+<line x1="390" y1="280" x2="241.6" y2="231.8" stroke="#263041" stroke-width="1"/>
+<text x="398" y="252.8" font-size="9.5" fill="#484f58">20</text>
+<text x="398" y="221.6" font-size="9.5" fill="#484f58">40</text>
+<text x="398" y="190.4" font-size="9.5" fill="#484f58">60</text>
+<text x="398" y="159.2" font-size="9.5" fill="#484f58">80</text>
+<text x="398" y="128.0" font-size="9.5" fill="#484f58">100</text>
+<polygon points="390.0,217.6 419.7,270.4 399.2,292.6 371.7,305.2 375.2,275.2" fill="url(#gl)" stroke="url(#gs)" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="390.0" cy="217.6" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
+<circle cx="419.7" cy="270.4" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
+<circle cx="399.2" cy="292.6" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
+<circle cx="371.7" cy="305.2" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
+<circle cx="375.2" cy="275.2" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
+<text x="390.0" y="98.0" text-anchor="middle" font-size="16" font-weight="600" fill="#e6edf3">AI &amp; Tools</text>
+<text x="390.0" y="114.0" text-anchor="middle" font-size="13" font-weight="700" fill="#58a6ff">40%</text>
+<text x="552.4" y="229.8" text-anchor="start" font-size="16" font-weight="600" fill="#e6edf3">Finance</text>
+<text x="552.4" y="246.8" text-anchor="start" font-size="13" font-weight="700" fill="#58a6ff">20%</text>
+<text x="481.7" y="436.2" text-anchor="middle" font-size="16" font-weight="600" fill="#e6edf3">Law</text>
+<text x="481.7" y="452.2" text-anchor="middle" font-size="13" font-weight="700" fill="#58a6ff">10%</text>
+<text x="298.3" y="436.2" text-anchor="middle" font-size="16" font-weight="600" fill="#e6edf3">Expression</text>
+<text x="298.3" y="452.2" text-anchor="middle" font-size="13" font-weight="700" fill="#58a6ff">20%</text>
+<text x="227.6" y="229.8" text-anchor="end" font-size="16" font-weight="600" fill="#e6edf3">Health</text>
+<text x="227.6" y="246.8" text-anchor="end" font-size="13" font-weight="700" fill="#58a6ff">10%</text>
+<text x="390" y="492" text-anchor="middle" font-size="11" fill="#484f58">honest self-assessment · Oct 2026 · scale 0–100</text>
+</svg>
