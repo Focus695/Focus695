@@ -20,7 +20,7 @@
 
 ### 🧭 Meta-Ability Radar
 
-<img src="assets/meta-abilities.svg" alt="Meta-ability radar" />
+<img src="assets/meta-abilities.svg?v=3" alt="Meta-ability radar" />
 
 | | Ability | What it's for | Now |
 |---|---|---|---|
