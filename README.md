@@ -42,15 +42,21 @@
 
 ---
 
+### 🚧 Now Building
+
+| Project | What it is | Stack | Stars |
+|---|---|---|---|
+| 🛝 [xiulema](https://github.com/Focus695/xiulema) · [xiulema.date](https://xiulema.date) | A workplace rest-record sharing site — log, track and share how work really wears you down | `TypeScript` | [![Stars](https://img.shields.io/github/stars/Focus695/xiulema?style=social)](https://github.com/Focus695/xiulema/stargazers) |
+| 🤖 [BoCode](https://github.com/Focus695/BoCode) | A human–agent development workflow template — how I ship software hand-in-hand with AI agents | `JavaScript` | [![Stars](https://img.shields.io/github/stars/Focus695/BoCode?style=social)](https://github.com/Focus695/BoCode/stargazers) |
+
 ### 🚀 Featured Work
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🌙 [MoonHub](https://github.com/RealityLink-Tech/MoonHub) | Core product of RealityLink — cooking the spatial web ([PWA client](https://github.com/RealityLink-Tech/MoonHub-PWA)) | `Go` `TypeScript` |
-| 🤖 [BoCode](https://github.com/Focus695/BoCode) | Human–agent collaborative development workflow template | `JavaScript` |
-| 🛒 [CAC](https://github.com/Focus695/CAC) | PWA e-commerce site with full admin backend | `TypeScript` |
-| 🛝 [xiulema](https://github.com/Focus695/xiulema) · [xiulema.date](https://xiulema.date) | Workplace rest-record sharing site | `TypeScript` |
-| 🧩 [Claito](https://github.com/Focus695/Claito) | Python tooling experiments | `Python` |
+| Project | What it is | Stack | Stars |
+|---|---|---|---|
+| 🌙 [MoonHub](https://github.com/RealityLink-Tech/MoonHub) | Core product of RealityLink — cooking the spatial web | `Go` | [![Stars](https://img.shields.io/github/stars/RealityLink-Tech/MoonHub?style=social)](https://github.com/RealityLink-Tech/MoonHub/stargazers) |
+| 📱 [MoonHub-PWA](https://github.com/RealityLink-Tech/MoonHub-PWA) | Progressive web app client for MoonHub | `TypeScript` | [![Stars](https://img.shields.io/github/stars/RealityLink-Tech/MoonHub-PWA?style=social)](https://github.com/RealityLink-Tech/MoonHub-PWA/stargazers) |
+| 🛒 [CAC](https://github.com/Focus695/CAC) | PWA e-commerce site with full admin backend | `TypeScript` | [![Stars](https://img.shields.io/github/stars/Focus695/CAC?style=social)](https://github.com/Focus695/CAC/stargazers) |
+| 🧩 [Claito](https://github.com/Focus695/Claito) | Python tooling experiments | `Python` | [![Stars](https://img.shields.io/github/stars/Focus695/Claito?style=social)](https://github.com/Focus695/Claito/stargazers) |
 
 ---
 
