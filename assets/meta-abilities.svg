@@ -27,21 +27,21 @@
 <text x="398" y="190.4" font-size="9.5" fill="#484f58">60</text>
 <text x="398" y="159.2" font-size="9.5" fill="#484f58">80</text>
 <text x="398" y="128.0" font-size="9.5" fill="#484f58">100</text>
-<polygon points="390.0,217.6 419.7,270.4 399.2,292.6 371.7,305.2 375.2,275.2" fill="url(#gl)" stroke="url(#gs)" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="390.0,217.6 434.5,265.5 408.3,305.2 353.3,330.5 345.5,265.5" fill="url(#gl)" stroke="url(#gs)" stroke-width="2.5" stroke-linejoin="round"/>
 <circle cx="390.0" cy="217.6" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
-<circle cx="419.7" cy="270.4" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
-<circle cx="399.2" cy="292.6" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
-<circle cx="371.7" cy="305.2" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
-<circle cx="375.2" cy="275.2" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
+<circle cx="434.5" cy="265.5" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
+<circle cx="408.3" cy="305.2" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
+<circle cx="353.3" cy="330.5" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
+<circle cx="345.5" cy="265.5" r="4.5" fill="#0d1117" stroke="#58a6ff" stroke-width="2.2"/>
 <text x="390.0" y="98.0" text-anchor="middle" font-size="16" font-weight="600" fill="#e6edf3">AI &amp; Tools</text>
 <text x="390.0" y="114.0" text-anchor="middle" font-size="13" font-weight="700" fill="#58a6ff">40%</text>
 <text x="552.4" y="229.8" text-anchor="start" font-size="16" font-weight="600" fill="#e6edf3">Finance</text>
-<text x="552.4" y="246.8" text-anchor="start" font-size="13" font-weight="700" fill="#58a6ff">20%</text>
-<text x="481.7" y="436.2" text-anchor="middle" font-size="16" font-weight="600" fill="#e6edf3">Law</text>
-<text x="481.7" y="452.2" text-anchor="middle" font-size="13" font-weight="700" fill="#58a6ff">10%</text>
+<text x="552.4" y="246.8" text-anchor="start" font-size="13" font-weight="700" fill="#58a6ff">30%</text>
+<text x="481.7" y="436.2" text-anchor="middle" font-size="16" font-weight="600" fill="#e6edf3">Rule</text>
+<text x="481.7" y="452.2" text-anchor="middle" font-size="13" font-weight="700" fill="#58a6ff">20%</text>
 <text x="298.3" y="436.2" text-anchor="middle" font-size="16" font-weight="600" fill="#e6edf3">Expression</text>
-<text x="298.3" y="452.2" text-anchor="middle" font-size="13" font-weight="700" fill="#58a6ff">20%</text>
+<text x="298.3" y="452.2" text-anchor="middle" font-size="13" font-weight="700" fill="#58a6ff">40%</text>
 <text x="227.6" y="229.8" text-anchor="end" font-size="16" font-weight="600" fill="#e6edf3">Health</text>
-<text x="227.6" y="246.8" text-anchor="end" font-size="13" font-weight="700" fill="#58a6ff">10%</text>
+<text x="227.6" y="246.8" text-anchor="end" font-size="13" font-weight="700" fill="#58a6ff">30%</text>
 <text x="390" y="492" text-anchor="middle" font-size="11" fill="#484f58">honest self-assessment · Oct 2026 · scale 0–100</text>
 </svg>

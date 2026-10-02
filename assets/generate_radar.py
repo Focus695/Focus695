@@ -17,10 +17,10 @@ RINGS = (20, 40, 60, 80, 100)
 # (label, value 0-100) — clockwise from the top
 AXES = [
     ("AI &amp; Tools", 40),   # AI 与数字工具
-    ("Finance",        20),   # 赚钱与资产管理
-    ("Law",            10),   # 法律、规则与维权
-    ("Expression",     20),   # 沟通写作、销售与谈判
-    ("Health",         10),   # 健康管理与应急
+    ("Finance",        30),   # 赚钱与资产管理
+    ("Rule",           20),   # 法律、规则与维权
+    ("Expression",     40),   # 沟通写作、销售与谈判
+    ("Health",         30),   # 健康管理与应急
 ]
 
 

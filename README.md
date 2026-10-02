@@ -27,14 +27,12 @@
 | | Ability | What it's for | Now |
 |---|---|---|---|
 | 🤖 | **AI & Digital Tools** | Efficiency leverage — amplify one-person productivity | `40%` |
-| 💰 | **Money & Asset Management** | Cash flow, asset building, resilience to economic risk | `20%` |
-| ⚖️ | **Law, Rules & Rights** | Read contracts & rules, know boundaries, protect yourself | `10%` |
-| 🗣️ | **Communication & Sales** | Win opportunities, resources and better deals; create content that moves people | `20%` |
-| 🫀 | **Health & Emergency** | Sleep, diet, exercise, basic medical & first-response know-how | `10%` |
+| 💰 | **Money & Asset Management** | Cash flow, asset building, resilience to economic risk | `30%` |
+| ⚖️ | **Rules & Rights** | Read contracts & rules, know boundaries, protect yourself | `20%` |
+| 🗣️ | **Communication & Sales** | Win opportunities, resources and better deals; create content that moves people | `40%` |
+| 🫀 | **Health & Emergency** | Sleep, diet, exercise, basic medical & first-response know-how | `30%` |
 
 <div align="center">
-
-**AI · 金融 · 法律 · 表达 · 健康** — 能干活、能赚钱、能自保、能输出、能活得久
 
 *Ship · Earn · Protect · Express · Endure*
 
