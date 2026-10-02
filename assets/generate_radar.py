@@ -54,7 +54,7 @@ p.append(f'<rect width="{W}" height="{H}" rx="14" fill="{BG}" stroke="{CARD_BORD
 
 # title
 p.append(f'<text x="{CX}" y="44" text-anchor="middle" font-size="13" letter-spacing="4" fill="{MUTED}">META-ABILITY RADAR</text>')
-p.append(f'<text x="{CX}" y="72" text-anchor="middle" font-size="21" font-weight="700" fill="{TEXT}">元能力塑造 · Current Levels</text>')
+p.append(f'<text x="{CX}" y="72" text-anchor="middle" font-size="21" font-weight="700" fill="{TEXT}">Current Levels</text>')
 
 # rings + axis lines + ring scale numbers
 for v in RINGS:

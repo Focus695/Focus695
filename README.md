@@ -16,11 +16,9 @@
 - 🌏 Indie developer & digital nomad — remote-first, building products that fit real life, not fight it.
 - 📈 Cross-domain learning in progress: **finance & investing × marketing**.
 
-> 远程办公 + 独立创业，打造可契合现实生活的产品
-
 ---
 
-### 🧭 Meta-Ability Radar · 元能力塑造
+### 🧭 Meta-Ability Radar
 
 <img src="assets/meta-abilities.svg" alt="Meta-ability radar" />
 

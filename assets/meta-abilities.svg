@@ -11,7 +11,7 @@
 </defs>
 <rect width="780" height="512" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 <text x="390" y="44" text-anchor="middle" font-size="13" letter-spacing="4" fill="#484f58">META-ABILITY RADAR</text>
-<text x="390" y="72" text-anchor="middle" font-size="21" font-weight="700" fill="#e6edf3">元能力塑造 · Current Levels</text>
+<text x="390" y="72" text-anchor="middle" font-size="21" font-weight="700" fill="#e6edf3">Current Levels</text>
 <polygon points="390.0,248.8 419.7,270.4 408.3,305.2 371.7,305.2 360.3,270.4" fill="none" stroke="#263041" stroke-width="1"/>
 <polygon points="390.0,217.6 449.3,260.7 426.7,330.5 353.3,330.5 330.7,260.7" fill="none" stroke="#263041" stroke-width="1"/>
 <polygon points="390.0,186.4 479.0,251.1 445.0,355.7 335.0,355.7 301.0,251.1" fill="none" stroke="#263041" stroke-width="1"/>
