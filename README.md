@@ -84,6 +84,9 @@
 
 <div align="center">
 
-💌 Find me on [𝕏](https://x.com/JingLW695) · [RealityLink-Tech](https://github.com/RealityLink-Tech) · [xiulema.date](https://xiulema.date)
+💌 Find me on
+
+<a href="https://x.com/JingLW695"><img src="https://img.shields.io/badge/X-%40JingLW695-000000?style=flat-square&logo=x&logoColor=white" alt="X @JingLW695" /></a>
+<a href="https://www.instagram.com/jinglw695"><img src="https://img.shields.io/badge/Instagram-%40jinglw695-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram @jinglw695" /></a>
 
 </div>
